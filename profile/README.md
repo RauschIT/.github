@@ -17,13 +17,13 @@ Lets AI assistants such as GitHub Copilot, Claude and Roo Code drive the VS Code
 
 ## Sim racing and hardware
 
-**[SFX-100 & SimFeedback](https://opensfx.com)**
-Open-source motion simulator for sim racing and flight simulation: mechanics, electronics and control software, with an international community since 2017.
-→ [opensfx.com](https://opensfx.com) · [SimFeedback on GitHub](https://github.com/SimFeedback/SimFeedback-AC-Servo)
-
 **[DisplayProfiles](https://github.com/SimFeedback/DisplayProfiles)**
 Save and switch complete Windows display setups, including NVIDIA Surround with bezel correction. Tray app with a local REST API for Stream Deck and scripts.
 → [Repository](https://github.com/SimFeedback/DisplayProfiles) · [Download](https://github.com/SimFeedback/DisplayProfiles/releases/latest)
+
+**[SFX-100 & SimFeedback](https://opensfx.com)**
+Open-source motion simulator for sim racing and flight simulation: mechanics, electronics and control software, with an international community since 2017.
+→ [opensfx.com](https://opensfx.com) · [SimFeedback on GitHub](https://github.com/SimFeedback/SimFeedback-AC-Servo)
 
 ## More to come
 
