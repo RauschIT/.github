@@ -7,13 +7,13 @@ We build practical AI solutions that run where your data lives: locally, on your
 
 ## AI tools
 
-**[VS Code Debugger MCP Server](https://marketplace.visualstudio.com/items?itemName=rauschit.vscode-debugger-mcp-server)**
-Lets AI assistants such as GitHub Copilot, Claude and Roo Code drive the VS Code debugger: start sessions, set breakpoints, step through code and inspect variables. 1,100+ installs.
-→ [Marketplace](https://marketplace.visualstudio.com/items?itemName=rauschit.vscode-debugger-mcp-server) · [Proxy (MIT)](https://github.com/saxxon66/VS-Code-Debugger-MCP-Server-Proxy)
-
 **[WhisperDictation](https://github.com/RauschIT/WhisperDictation)**
 Local speech-to-text dictation for Windows: speak, and the text appears in any window. Whisper runs on your own graphics card through Vulkan (NVIDIA, AMD and Intel alike), with no cloud and no audio leaving the machine. Handles German speech mixed with English technical terms.
 → [Repository](https://github.com/RauschIT/WhisperDictation)
+
+**[VS Code Debugger MCP Server](https://marketplace.visualstudio.com/items?itemName=rauschit.vscode-debugger-mcp-server)**
+Lets AI assistants such as GitHub Copilot, Claude and Roo Code drive the VS Code debugger: start sessions, set breakpoints, step through code and inspect variables. 1,100+ installs.
+→ [Marketplace](https://marketplace.visualstudio.com/items?itemName=rauschit.vscode-debugger-mcp-server) · [Proxy (MIT)](https://github.com/saxxon66/VS-Code-Debugger-MCP-Server-Proxy)
 
 ## Sim racing and hardware
 
